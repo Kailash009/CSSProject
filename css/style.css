@@ -1,0 +1,136 @@
+.box
+{
+    width:1200px;
+    height:auto;
+    border:5px solid orange;
+    margin:auto;
+}
+.header
+{
+    width:1200px;
+    height:60px;
+}
+.logo
+{
+width:200px;
+height:60px;
+float:left;
+}
+.heading
+{
+width:600px;
+height:60px;
+float:left;
+}
+.flag
+{
+    width:400px;
+    height:60px;
+    float:left;
+    text-align: center;
+}
+div>p
+{
+text-align: center;
+font-size: 25px;
+font-family:Goudy Stout;
+font-weight: bold;
+}
+.menu
+{
+    width:1200px;
+    height:50px;
+    background-image:url('/logo/mnu.png');
+}
+ul{
+    list-style-type: none;
+    float:left;
+}
+ul li{
+   display: inline-block; 
+}
+ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size:20px;
+    color:white;
+    padding:5px 45px;
+    border-right: 2px solid;
+}
+ul li:last-child a{
+    border-right: none;
+}
+ul li a:hover{
+    background-color: black;
+    color:white;
+}
+.slider
+{
+    width:1200px;
+    height:400px;
+}
+.content
+{
+    width:1200px;
+    height: 500px;
+}
+.left
+{
+width:300px;
+height:500px;
+text-align: center;
+padding-top: 22px;
+float:left;
+}
+.center
+{
+    width:600px;
+    height: 500px;
+    float:left;
+}
+b{
+    font-size: 19px;
+}
+.p1
+{
+    font-size: 12px;
+}
+.right
+{
+    width:300px;
+    height:500px;
+    float:left;
+    padding-top: 12px;
+    border: 1px;
+    text-align: center;
+    font-weight: bold;
+}
+span{
+    border-bottom: 3px solid red;
+}
+ol li{
+    list-style-type: none;
+    font-size: small;
+    line-height: 44px;
+}
+ol li i
+{
+    text-decoration: none;
+}
+.imgslid
+{
+    width: 1200px;
+    height: 100px;
+    background-color: cyan;
+}
+.footer
+{
+    width:1200px;
+    height: 50px;
+    background-color: black;
+    color:white;
+}
+
+
+
+
